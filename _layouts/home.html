@@ -5,13 +5,13 @@ layout: default
   <div class="section no-pad-bot" id="index-banner">
     <div class="container">
       <br><br>
-      <h1 class="header center orange-text">{{ site.title }}</h1>
+      <img src="/assets/images/MILogo.jpg">
       <div class="row center">
         <h5 class="header col s12 light">{{ content }}</h5>
       </div>
         
       <div class="row center">
-        <a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>
+        <a href="#footer" id="download-button" class="btn-large waves-effect waves-light orange">Donate</a>
       </div>
       <br><br>
 
@@ -25,54 +25,41 @@ layout: default
       <div class="row">
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
-            <h5 class="center">Speeds up development</h5>
+            <img src="/assets/images/SilverLogo.png">
+            <h5 class="center">Sexual Purity</h5>
 
-            <p class="light">We did most of the heavy lifting for you to provide a default stylings that incorporate our custom components. Additionally, we refined animations and transitions to provide a smoother experience for developers.</p>
+            <p class="light">We partner with local churches and communities, encouraging young people to dedicate their lives to sexual purity through programs like <a href="https://www.silverringthing.com/">Silver Ring Thing</a>.</p>
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
-            <h5 class="center">User Experience Focused</h5>
+              <img src="/assets/images/Orphanage.jpg">
+              <h5 class="center">Orphanage</h5>
 
-            <p class="light">By utilizing elements and principles of Material Design, we were able to create a framework that incorporates components and animations that provide more feedback to users. Additionally, a single underlying responsive system across all platforms allow for a more unified user experience.</p>
+            <p class="light">Mama Cooper is an incredible woman of God who takes in children without homes. We support her incredible orphanage in Liberia.</p>
           </div>
         </div>
 
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
-            <h5 class="center">Easy to work with</h5>
+              <img src="/assets/images/pastoral.jpg">
+              <h5 class="center">Pastoral Care</h5>
 
-            <p class="light">We have provided detailed documentation as well as specific code examples to help new users get started. We are also always open to feedback and can answer any questions a user may have about Materialize.</p>
+            <p class="light">We are still deciding what to write in these sections...</p>
+          </div>
+        </div>
+
+        <div class="col s12 m4">
+          <div class="icon-block">
+              <img src="/assets/images/SilverLogo.png">
+              <h5 class="center">Family</h5>
+
+            <p class="light">We are still deciding what to write in these sections....</p>
           </div>
         </div>
       </div>
 
     </div>
-      
-    </div>
-    <div style="background: #ddd">
-    <div class="container last-post">
-    <section>
-        <h5>Latest Post</h5>
-        <ul class="collection">
-        {% for post in site.posts %}
-        <li class="collection-item avatar">
-          {% assign date_format = site.minima.date_format | default: "%m/%d" %}
-          <div class="date-post">{{ post.date | date: date_format }}</div>
-          <span class="title"><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
-          <p>
-             {{ post.content | truncatewords: 10 }}
-          </p>
-          <a href="{{ post.url | relative_url }}" class="secondary-content"><i class="material-icons">navigate_next</i></a>
-        </li>
-        {% endfor %}
-        </ul>  
-    </section>
-    </div>
 </div>
-
   </div>
