@@ -7,9 +7,9 @@ published: true
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-No restrictions.  No conditions. No strings attached. That may work in the world of cell phone contracts but when it comes to sex, we know better… Right?  Truth is, most of us know you can’t separate your body from mind, heart and soul.  But, our actions so often speak differently. We buy into the lies that scream “It’s just physical. It’s no big deal.  No one will get hurt. It’s how you show love.”
-
 <img src="/assets/images/SilverLogo.png">
+
+No restrictions.  No conditions. No strings attached. That may work in the world of cell phone contracts but when it comes to sex, we know better… Right?  Truth is, most of us know you can’t separate your body from mind, heart and soul.  But, our actions so often speak differently. We buy into the lies that scream “It’s just physical. It’s no big deal.  No one will get hurt. It’s how you show love.”
 
 Our culture is so calloused to the value of sex. The lies promising freedom have come with a cost and our pursuit of pleasure has caused much pain.  Our 'right' without responsibility has left many betrayed, abused and broken.
 
