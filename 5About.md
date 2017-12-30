@@ -6,197 +6,48 @@ permalink: /about/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
-    <h5>Borderless Table</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table>
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
-                <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Bordered Table</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table class="bordered">
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
-                <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Striped Table</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table class="striped">
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
-                <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Highlight Table</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table class="highlight">
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
-                <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
-<div class="divider"></div>
-<div class="section">
-    <h5>Responsive Table</h5> 
-    <div class="row">
-          <div class="col s12">
-            <table class="responsive-table">
-              <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Item Name</th>
-                    <th>Item Price</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>Alvin</td>
-                  <td>Eclair</td>
-                  <td>$0.87</td>
-                </tr>
-                <tr>
-                  <td>Alan</td>
-                  <td>Jellybean</td>
-                  <td>$3.76</td>
-                </tr>
-                <tr>
-                  <td>Jonathan</td>
-                  <td>Lollipop</td>
-                  <td>$7.00</td>
-                </tr>
-                <tr>
-                  <td>Shannon</td>
-                  <td>KitKat</td>
-                  <td>$9.99</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-    </div>
-</div>
+#### Word from our Founder
+
+Through God's direction I started Mission International 7 years ago after my wife and two children returned from Africa. I recognized the reality and truth of a living, loving Creator at the age of 24 years. I've dedicated my life to following our Lord wherever He leads. We have done numerous mission trips and met my wife on a medical mission trip to Mexico. I also spent a year in Africa with my wife and two children. Mission International supports a number of ministries with food, finances and supplies. However I believe my most important influence is sexual purity within the context of God's Word, believing it leads to stable, strong families which are a key foundation for the Gospel message.
+
+   -- Alfons Schirduan
+
+#### Read Al's Full Testimony Below
+
+I came from a family of nine children. My amazing mother not only kept us fed and clothed, but woke us up every morning with a smile on her face and a song in her heart. We had neither a clothes dryer nor disposable diapers. My mom hung the diapers outside during the cold New England winters, snapped the ice out of them, then draped them about the house to fully dry. She rarely lost her smile. She had me convinced that raising nine children was the greatest privilege in her life.
+
+Our family never missed a Sunday service. Christian education was very important to my parents. I attended Catholic elementary school and four years of Catholic high school. Growing up, I always enjoyed religion class and the stories about the famous saints, priests and nuns. However, in high school I realized that no one believed these stories. In my senior year our religion teacher taught us that miracles do not exist. She stated that Jesus was a good man, but the Bible was just another philosophy and the miracles were only symbolic. This undermined what little faith I had. My confusion led to occasional depression, which followed me throughout high school and into college.
+
+At college I set about to discover the true meaning of life. I took a philosophy class titled the Philosophy of Science and then I took a science class called the Science of Philosophy. I wanted to learn the true foundations of knowledge and man’s existence. I discovered that although the physical world had definite and absolute laws of operation, apparently human behavior had no absolutes. 
+
+I was taught that man’s nature was subjective. The age of “Enlightenment” brought noted philosophers and thinkers to explain human nature such as Voltaire, Immanuel Kant, James Joyce and Carl Jung. However, human behavior could also be interpreted by pornographers, pedophiles or anyone. Any and every description has equal credibility because, according to them, there are no absolutes, no boundaries of right or wrong.  So, I took confidence in biology and the sciences where the absolute laws are foundational. However, I continued to wrestle with conflicting feelings, confusion and at times my conscience.
+
+Once out of college I moved to Florida. My parents had a small house near the beach. I decided to stop looking for the “answer to life”. I put my conscience behind me and just had fun. I did what I wanted with little reservation. The weekend party started on Friday before I got home from work and ended on Monday or Tuesday.
+
+A good friend and one of the funniest guys I knew was Mike Gleam. He played guitar at the bars and regularly attended our parties. I noticed he had missed the last few.  Catching up with him at the beach, I asked him why, he said “I got saved”. I asked him, ”saved from what?”, I had never heard the term. He then explained his belief in God and a personal relationship with Jesus Christ. He said God loved me. Now, many people have said that they loved me and yet had left me or hurt me. Saying God loved me meant very little. Mike explained that healing miracles also took place in this church. Hope began to rise up in me that maybe there is a God. A God who created me and knew me and Whom I could know. It sure seemed like this should be right. But somehow I had never met anyone who actually lived like they believed it.
+
+I remember attending my friends church and feeling as if I were walking into heaven. I felt like I was two feet off the ground.  After the service I walked up to the front to receive Jesus as my Lord and Savior.
+
+I have seen many miracles since becoming a Christian. Yet all it takes is one miracle to prove there is a greater paradigm governing our universe than the natural laws of science. At a healing service a good friend of mine had terrible eschmia on her hands and they would crack and bleed. Once prayed for her skin was instantly changed and looked like new skin and was wonderfully healed. Of course, my mind thinks scientifically. This one miracle defies all natural laws. A foundational law of science is the 1st law of thermodynamics. It states, “Matter can neither be created nor destroyed.” Tissue, nerves and blood vessels (matter) were created from nothing in this miracle. This also takes credence away from the so called theory of evolution. The new tissue did not evolve from primordial slime. It came formed, fully human.
+
+My conversion experience was pretty dramatic. When the truth of God’s reality awoke in me, I thought very few people knew about Him. I realized I had at last found the answer to all of my questions. I saw how Jesus’ birth, life and sacrifice was the missing piece that put all of the universe and mans place in it into harmony. It all made perfect sense. Science shows us the physical universe has absolute laws. The Bible shows us the absolute laws of human behavior and existence.
+
+I thought none of my friends or co-workers knew this important information. I remember going to the hospital where I worked and telling my friends and boss about Jesus. I was so excited I told anyone who would listen. It took me a number of weeks before I began to realize that most of them had already heard the Gospel. I was astonished. One co-worker and friend stated he was a Christian. Again I was amazed and told him he couldn’t be. He had never shared it with me. He said that I was just a new Christian and that the excitement would soon wear off. It hasn’t.
+
+For about 6 months I walked on cloud nine. I felt God’s love wherever I went. Then some of the old discouragements, depression and fears began to creep back into my life. I did not understand why.  I prayed and cried out to God about this. One night I had a nightmare. I tossed and turned and sweated through the night. About four in the morning suddenly that wonderful peace of God flooded my being and I fell into a deep peaceful sleep. When I woke up that morning I heard a voice speaking to me. It said “Al you are no good, you will never amount to anything, you’re ugly, you are dumb...”. As these words came at me I realized those negative feelings came with them. But this time I saw those feelings while surrounded in God’s love. He showed me that these words are from the evil one and that I had to learn to fight them with His thoughts, the Word of God. I still must keep vigilant today to keep my mind renewed. (Phil. 4:8)
+
+At 30 years old, my life with the Lord became weak and dry. I had dated some Christian girls but nothing seemed to work out right. Finally, my frustration grew until I made an ultimatum with God. If He would work in my life I would do whatever He wanted me to do.  I meant it.
+
+The Lord was waiting for me to reach this point. I had pulled back from requests where I needed to speak in front of others. I had a fear of public speaking. If He would change my life, I was willing to face this fear. The very next day a doctor came up to me and asked me to set up a medical mission team to go to Mexico. God did not waste any time. Normally I would have quickly declined such an offer. But I knew God had set it up. I was going to obey. Despite my fear I said yes. I managed to do ok until the doctor had set up a large meeting of other doctors and ministers. As I was driving home after work I was talking to God out loud about my concerns. I reasoned He would understand why I intended to miss this meeting. Suddenly God’s presence filled my car and a wonderful peace spoke to my heart. I knew He wanted me to go to the meeting and He would take care of my fears. I had not sensed God’s presence like that in over a year. I went to the meeting and with help, the organization and planning went well.
+
+After a number of years as a Christian and having different relationships I lamented that I was still not married.  My first priority however, was to survive the mission trip. My goals for the trip were simple. 1. Get to Mexico safely. 2. Not mess up too badly. 3. Get home alive. If I could accomplish this, I would consider the trip a success!
+
+My flight was scheduled a day early and I arrived before the other team members. It so happened the Spanish interpreter also arrived a day early. She greeted us at the airport holding a big welcome sign in Spanish. I thought she was a very nice Christian girl. We ended up with a free evening and had dinner together. She was great company and laughed at all my jokes and stories. This was a smart girl. We ended up spending allot of time together and grew close that week. After the mission trip she returned to South Carolina and I came back to Tulsa Oklahoma.
+
+God had more in mind for us.  I had some strong dreams about Heather. She was also wondering if God had more in store for us. We began to correspond by mail. Heather accepted my invitation to spend Christmas in Tulsa. She stayed with a friend. After church service one evening we talked about our future. I was going to say I wasn’t sure what would happen. Instead what came out of my mouth was, ”you can move up here and finish college at Oral Roberts University.”  I was astonished those words came out of my mouth yet I experienced the tangible peace of the Lord when I said it.  Later that evening I realized she was mad at me. Who was I to say she should leave her family, friends and a full scholarship to Baptist College to move to Tulsa? We had actually known each other only two months. But the Lord in His patience continued to work on us. She had made a list of terms before she would consider moving up to Tulsa. Among them was late acceptance, finances, and a place off campus. Everything came through and worked out smoothly.
+
+God still had His work cut out for Him. A couple of weeks after Heather moved to Tulsa our relationship had become difficult. We didn’t seem to be getting along. I didn’t understand why. My plan had been to ask Heather to marry me at the end of the semester if all things went well. But, our relationship had become so stressful, I thought Heather no longer liked me. I remember coming home from work, finishing up a Whopper from Burger King (my favorite) and asking God if this could have possibly been all a big mistake. I sat down on my bed and heard these words in an audible voice, “Heather is waiting for you to ask her to marry you.” I looked up at the ceiling and shouted, “What?”  I have felt the Lords strong leading a number of times, but this is the only time He has spoken to me audibly. He is a merciful God. I went to see Heather that evening and she greeted me at the door with a peaceful countenance I hadn’t seen in a while. She said, “Al you know why I think we’ve been having so many problems?” I quickly responded, “because you’ve been waiting for me to ask you to marry me.” She answered, “Well...yeah.”
+
+Being the hard headed person that I am I still didn’t ask her. Instead, I made an appointment with my pastor. I remember he was busy at his desk as I sat waiting for him. Suddenly he looked up and said, “ Al, has God spoken to you?” I said “yes”, he responded, “Well, do what He said.” He then went back to his papers.
+
+We were married in June. We have been on a number of mission trips to Mexico, Nicaragua and spent a year in Liberia, Africa with our two teenage children aboard Mercyships. Heather teaches Spanish. I am a Respiratory Therapist and a Registered Nurse. I work at a local hospital. We belong to a wonderful church body. Make no mistake, trials and difficulties have been in our marriage and our life as it is in anyone’s. I share some of the more extraordinary times because I need them as a reminder that God is always with me.  He doesn’t keep us from daily trials, but I guarantee He will walk through them with us. What a wonderful Savior we have! As His word says in Math. 28:20, “I am always with you.”

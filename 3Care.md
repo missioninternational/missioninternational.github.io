@@ -6,28 +6,17 @@ permalink: /pastoralcare/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-<div class="section">
-    <div class="row">
-          <div class="carousel carousel-slider center" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 400px;">
-          <div class="carousel-fixed-item center with-indicators">
-            <a class="btn waves-effect white grey-text darken-text-2">button</a>
-          </div>
-          <div class="carousel-item red white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
-            <h2>First Panel</h2>
-            <p class="white-text">This is your first panel</p>
-          </div>
-          <div class="carousel-item amber white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
-            <h2>Second Panel</h2>
-            <p class="white-text">This is your second panel</p>
-          </div>
-          <div class="carousel-item green white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
-            <h2>Third Panel</h2>
-            <p class="white-text">This is your third panel</p>
-          </div>
-          <div class="carousel-item blue white-text" href="#four!" style="transform: translateX(0px) translateX(-953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
-            <h2>Fourth Panel</h2>
-            <p class="white-text">This is your fourth panel</p>
-          </div>
-        <ul class="indicators"><li class="indicator-item active"></li><li class="indicator-item"></li><li class="indicator-item"></li><li class="indicator-item"></li></ul></div>
-    </div>
-</div>
+We support and promote pastoral care and training. Pastor John with Narepa Ministries is a commited Godly man and heads up the pastoral outreach.  He has a connection with many churches and ministers.  He is also involved with sexual purity seminars, eboli containment programs and diverse community events.
+
+We have provided Ebola supplies and support for three ministries in Liberia these include: Narepa Pastoral Minsitries with Pastor John Wologo and Lucusa Ministry with Father James Yarsah, see their messages below as well as pictures. Mama Coopers Orphanage has also expressed great appreciation especially as it enables the continued health and safety for the children.
+
+>Dear Brother Al Schirduan, We appreciate all financial assistances from every Staff, Employee, Authority and Sympathizer of Roper Hospital. The money is used to help the most victims and their bereaved families for the purchase of cartons of hand washing soap, chloral and tide soap, juices, essential detergents and first aid drugs followed by petit cash for food and laundry. Seven quarantined homes out of 81 have benefited from your assistances. Pls. expect a genuine receipt and current photos in process as soon as possible. Mama Cooper has finalized a schedule with us to teach the SRT/ABST. to the orphanage homes. I will get ready to start in a week from now after I conclude the Parent sections of SRT workshop begun since weeks ago. <br> ---  Pastor John Wologo of Narepa Pastoral Ministries
+
+#### [Read their latest newsletter](/assets/PastorLetter.pdf)
+
+<img src="/assets/images/PastorKids.jpg" style="width:50%;height:100%;"><img src="/assets/images/PastorShirt.jpg" style="width:50%;height:100%;">
+
+<img src="/assets/images/PastorContainer.jpg" style="width:75%;height:100%;display:block;margin:auto">
+
+<img src="/assets/images/PastorKids2.jpg" style="width:50%;height:100%;"><img src="/assets/images/PastorMuddy.jpg" style="width:50%;height:100%;">
+
