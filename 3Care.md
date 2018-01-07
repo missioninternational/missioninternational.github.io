@@ -14,11 +14,7 @@ We have provided Ebola supplies and support for three ministries in Liberia thes
 
 #### [Newletter...](/assets/PastorLetter.pdf)
 
-<<<<<<< HEAD
 <img src="/assets/images/pastoral.jpg" style="width:50%;height:100%;"><img src="/assets/images/PastorSitting.JPG" style="width:50%;height:100%;">
-=======
-<img src="/assets/images/PastorKids.JPG" style="width:50%;height:100%;"><img src="/assets/images/PastorShirt.JPG" style="width:50%;height:100%;">
->>>>>>> 39002e20c466886087bc221023b7e29d919d1450
 
 <img src="/assets/images/PastorKids.jpg" style="width:75%;height:100%;display:block;margin:auto">
 
