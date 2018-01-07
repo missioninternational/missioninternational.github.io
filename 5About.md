@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About Us
+title: About Us / Al's Testimony
 permalink: /about/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
-
-#### Word from our Founder
+<h1 class="page-title">About Us</h1>
 
 Through God's direction I started Mission International 7 years ago after my wife and two children returned from Africa. I recognized the reality and truth of a living, loving Creator at the age of 24 years. I've dedicated my life to following our Lord wherever He leads. We have done numerous mission trips and met my wife on a medical mission trip to Mexico. I also spent a year in Africa with my wife and two children. Mission International supports a number of ministries with food, finances and supplies. However I believe my most important influence is sexual purity within the context of God's Word, believing it leads to stable, strong families which are a key foundation for the Gospel message.
 
    -- Alfons Schirduan
 
-#### Read Al's Full Testimony Below
+<blockquote><h4>
+Al's Full Testimony...
+</h4></blockquote>
 
 I came from a family of nine children. My amazing mother not only kept us fed and clothed, but woke us up every morning with a smile on her face and a song in her heart. We had neither a clothes dryer nor disposable diapers. My mom hung the diapers outside during the cold New England winters, snapped the ice out of them, then draped them about the house to fully dry. She rarely lost her smile. She had me convinced that raising nine children was the greatest privilege in her life.
 
