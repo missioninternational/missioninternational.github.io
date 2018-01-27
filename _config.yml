@@ -1,13 +1,15 @@
-title: "Mission International"
+title: Mission International
 author: davidschirduan
 email: davidschirduan@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Bringing hope and changing lives through the good news of the Gospel.
+description: 'Bringing hope and changing lives through the good news of the Gospel.'
 
-baseurl:
-
+baseurl: '/'
+url: 'https://mission-international.net'
+google_analytics: 'UA-49566007-1'
 twitter_username: 
 github_username:  
 
 sass:
     style: compressed
+
+
