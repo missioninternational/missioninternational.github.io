@@ -7,15 +7,21 @@ published: true
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
+#### FREE EVENT: Silver Ring Thing
+
+- Cathedral of Praise Church
+- Wednesday March 7th, 2018
+- 6:30 pm
+
 #### Find Freedom!
 
 **Sexual Purity is a critical key to a successful Christian Life.**
 
-[Silver Ring Thing](https://www.silverringthing.com/) is a fantastic program. Our culture is so calloused to the value of sex. The lies promising freedom have come with a cost and our pursuit of pleasure has caused much pain.  Our 'right' without responsibility has left many betrayed, abused and broken.
+[Silver Ring Thing](https://www.silverringthing.com/) is presenting a fantastic program at Cathedral of Praise Church on March 7th at 6pm. Our culture is so calloused to the value of sex. The lies promising freedom have come with a cost and our pursuit of pleasure has caused much pain.  Our 'right' without responsibility has left many betrayed, abused and broken.
 
 We are created for so much more... There is a truth that shouts, “If you knew who you are and whose you are, you would desire to live differently.” It's time to break ties from the lies and find freedom in the truth.
 
-George Orwell wrote, “In a time of universal deceit, telling the truth is a revolutionary act.” That is certainly true of today. In a world that celebrates immorality and condemns purity, those who stand for Godly values are misfits, rebels, disruptive to the cultural norm. Silver Ring Thing is challenging a generation to live up to their worth and boldly embrace their calling to be set apart. The message is presented through peer-level students that communicate with honesty and conviction.
+We are hosting an event at Cathedral of Praise in North Charleston SC on Wednesday, March 7th, 2018 @ 6:00 pm. The theme for the tour is “Explicit Truth:Leaving Nothing Behind.” George Orwell wrote, “In a time of universal deceit, telling the truth is a revolutionary act.” That is certainly true of today. In a world that celebrates immorality and condemns purity, those who stand for Godly values are misfits, rebels, disruptive to the cultural norm. Silver Ring Thing is challenging a generation to live up to their worth and boldly embrace their calling to be set apart. The message is presented through peer-level students that communicate with honesty and conviction.
 
 "How can a young person stay on the path of purity? By living according to your word.” - Psalm 119:9 
 
@@ -33,6 +39,8 @@ Included with this event is a separate Parent Session which informs parents abou
 - The news you haven’t heard
 - Debunking the ‘Safe-sex’ myth
 - 8 key things every parent should do… and so much more!
+
+Information and registration can be found at [https://www.silverringthing.com/events/charlestonsc](https://www.silverringthing.com/events/charlestonsc)
 
 You can read a description about this tour at [https://www.silverringthing.com/tourtheme](https://www.silverringthing.com/tourtheme)
 
