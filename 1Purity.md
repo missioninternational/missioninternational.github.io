@@ -7,17 +7,11 @@ published: true
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
-#### FREE EVENT: Silver Ring Thing
-
-- Cathedral of Praise Church
-- Wednesday March 7th, 2018
-- 6:30 pm
-
-#### Find Freedom!
+### Find Freedom!
 
 **Sexual Purity is a critical key to a successful Christian Life.**
 
-[Silver Ring Thing](https://www.silverringthing.com/) is presenting a fantastic program at Cathedral of Praise Church on March 7th at 6pm. Our culture is so calloused to the value of sex. The lies promising freedom have come with a cost and our pursuit of pleasure has caused much pain.  Our 'right' without responsibility has left many betrayed, abused and broken.
+[Silver Ring Thing](https://www.silverringthing.com/) is presenting a fantastic program next year at a site soon to be announced. Our culture is so calloused to the value of sex. The lies promising freedom have come with a cost and our pursuit of pleasure has caused much pain. Our ‘right’ without responsibility has left many betrayed, abused and broken.
 
 We are created for so much more... There is a truth that shouts, “If you knew who you are and whose you are, you would desire to live differently.” It's time to break ties from the lies and find freedom in the truth.
 
@@ -29,7 +23,13 @@ We are hosting an event at Cathedral of Praise in North Charleston SC on Wednesd
 
 <img src="/assets/images/silverSpeaker.jpg" style="width:75%;height:100%;display:block;margin:auto">
 
-#### Parents...
+### A Message from last year:
+
+Here’s another great testimony we received from a student who attended an event last week.  This is coming from a 16-year old guy and I’m always encouraged to know when our message connects with the guys.  We need more boys to become men and lead with integrity and passion!  I especially love his one sentence that says, *“I want to be a problem for the enemy today and forever.”*  I pray we are able to continue inspiring a generation to be a huge problem for the enemy!!
+
+>“I want to thank you guys for coming to Cathedral of Praise March 7. You have some amazing stories and I loved all of them. You guys speak truth and don’t just act like you know what we’re going through because you are in our shoes (Love that). I love that you are bold and continue to be bold- you guys talk real. You are doing amazing things for the kingdom through this ministry.  I love that you dealt with homosexuality in our culture that’s not talked about a lot. I was expecting you to only talk about lust which I dealt with a lot and still do. I have grown so much in faith and walk with God, so now I can look at girls the way he does. I have dealt with porn and wanting to have sex (thankfully I haven’t) but God has blessed me with some incredible people to surround me and hold me accountable.  You guys inspired me to keep running from sexual temptations and to run towards God. I absolutely love what you are bringing to the kingdom and how you are talking about sex and are not scared by it. I get so hyped how God uses stories to impact lives, how the enemy tempts us but then God uses it for His glory. I want to be a problem for the enemy today and forever.  Thank u for everything, u guys are so lit and keep doing what you’re doing.”
+
+### Parents...
 
 Included with this event is a separate Parent Session which informs parents about the real attitudes and behaviors of today's youth culture and how you can best support their child's commitment to purity. 87% of teens say it would be easier to postpone sexual activity and avoid teen pregnancy if they were able to have more open, honest conversations with their parents. This session offers timeless answers and foundational truths for parents who want the best for their kids.
 
