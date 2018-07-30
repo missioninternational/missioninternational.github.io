@@ -7,6 +7,23 @@ published: true
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
+### Free Event!
+
+*March 10th, 2019, Sunday evening at 6:30pm.* 
+
+Located at Seacoast Church main campus, Mt Pleasant, SC, 750 Long Point Rd. Last Seacoast event brought over 500 students with many commitments to wearing the purity ring and living for our Saviour.
+
+### The Conquer Series
+
+*Find freedom and beat pornography in your life!*
+
+Al Schirduan is holding confidential, short, Conquer groups to bring peace and victory against the lie of porn and impurity in your life, free please email [alschirduan@gmail.com](mailto:alschirduan@gmail.com) or call at 843-743-3827.
+
+<iframe src="https://player.vimeo.com/video/84189628?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/84189628">Conquer Series Trailer - Official [HD]</a> from <a href="https://vimeo.com/kingdomworks">KingdomWorks Studios</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+ - God Bless!
+
 ### Find Freedom!
 
 **Sexual Purity is a critical key to a successful Christian Life.**
