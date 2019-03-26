@@ -18,6 +18,9 @@ We support and promote pastoral care and training. Pastor John with Narepa Minis
 
 We have provided Ebola supplies and support for three ministries in Liberia these include: Narepa Pastoral Minsitries with Pastor John Wologo and Lucusa Ministry with Father James Yarsah, see their messages below as well as pictures. Mama Coopers Orphanage has also expressed great appreciation especially as it enables the continued health and safety for the children.
 
+## Sexual Purity/House League Football
+<img src="/assets/images/abssoccer.jpg" style="width:50%;height:100%;"><img src="/assets/images/abssoccer2.jpg" style="width:50%;height:100%;"><img src="/assets/images/abssoccer3.jpg" style="width:50%;height:100%;"><img src="/assets/images/abssoccer4.jpg" style="width:50%;height:100%;"><img src="/assets/images/abssoccer5.jpg" style="width:50%;height:100%;"><img src="/assets/images/abssoccer6.jpg" style="width:50%;height:100%;">
+
 #### [Newletter...](/assets/PastorLetter.pdf)
 
 <img src="/assets/images/pastoral.jpg" style="width:50%;height:100%;"><img src="/assets/images/PastorSitting.JPG" style="width:50%;height:100%;">
