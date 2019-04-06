@@ -9,9 +9,7 @@ published: true
 
 ### Free Event!
 
-*March 10th, 2019, Sunday evening at 6:30pm.* 
-
-Located at Seacoast Church main campus, Mt Pleasant, SC, 750 Long Point Rd. Last Seacoast event brought over 500 students with many commitments to wearing the purity ring and living for our Saviour.
+The year's event was a wild success! over 600 attendies and 26 youth committing to a relationship with Jesus. 2020 details to be announced soon!
 
 ### The Conquer Series
 
