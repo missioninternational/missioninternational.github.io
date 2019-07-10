@@ -22,7 +22,7 @@ Directed by Pastor John, this program encourages students to walk in purity. The
 
 We support and promote pastoral care and training. Pastor John with Narepa Ministries is a commited Godly man and heads up the pastoral outreach.  He has a connection with many churches and ministers.  He is also involved with sexual purity seminars, eboli containment programs and diverse community events.
 
-<img src="/assets/images/AbstinenceClub1.JPG" style="width:50%;height:100%;"><img src="/assets/images/AbstinenceClub2.JPG" style="width:50%;height:100%;">
+<img src="/assets/images/school1.jpg" style="width:50%;height:100%;"><img src="/assets/images/school2.jpg" style="width:50%;height:100%;"><img src="/assets/images/school3.jpg" style="width:50%;height:100%;"><img src="/assets/images/school4.jpg" style="width:50%;height:100%;"><img src="/assets/images/school5.jpg" style="width:50%;height:100%;">
 
 We have provided Ebola supplies and support for three ministries in Liberia these include: Narepa Pastoral Minsitries with Pastor John Wologo and Lucusa Ministry with Father James Yarsah, see their messages below as well as pictures. Mama Coopers Orphanage has also expressed great appreciation especially as it enables the continued health and safety for the children.
 
