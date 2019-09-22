@@ -14,15 +14,16 @@ Directed by Pastor John, this program encourages students to walk in purity. The
 
        - Pastor John
 
-<video controls>
-	<source src="/assets/images/purity-school5.mp4" type='video/mp4'>
-	<p>Your browser does not support videos.</p>
-</video>
 
 <video controls>
-	<source src="/assets/images/purity-school6.mp4" type='video/mp4'>
-	<p>Your browser does not support videos.</p>
-</video>
+  <source src="/assets/images/purity-school5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+<video controls>
+  <source src="/assets/images/purity-school6.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
 
 <hr>
 
