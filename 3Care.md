@@ -6,6 +6,13 @@ permalink: /pastoralcare/
 
 <h1 class="page-title">{{ page.title | escape }}</h1>
 
+## Sexual Purity Seminar with over 200 Students!
+
+Section of mass attendance of more than 200 excited students in the auditorium. Included a female facilitator teaching on penalties of peer pressure driven.
+
+<img src="/assets/images/Apr14_1.jpg" style="width:30%;height:100%;"><img src="/assets/images/Apr14_2.jpg" style="width:30%;height:100%;"><img src="/assets/images/Apr14_3.jpg" style="width:30%;height:100%;">
+<img src="/assets/images/Apr14_4.jpg" style="width:30%;height:100%;"><img src="/assets/images/Apr14_5.jpg" style="width:30%;height:100%;"><img src="/assets/images/Apr14_6.jpg" style="width:30%;height:100%;">
+
 ## "Abstinence Club" in Liberia
 
 Directed by Pastor John, this program encourages students to walk in purity. They have recently begun a Night School program for adults!
