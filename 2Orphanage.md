@@ -11,6 +11,10 @@ permalink: /orphanage/
 
 <img src="/assets/images/cooper1.jpg" style="width:50%;height:100%;"><img src="/assets/images/cooper1.jpg" style="width:50%;height:100%;">
 
+## Graduation!
+
+<img src="/assets/images/graduation1.jpg" style="width:30%;height:100%;"><img src="/assets/images/graduation2.jpg" style="width:30%;height:100%;"><img src="/assets/images/graduation3.jpg" style="width:30%;height:100%;">
+
 ## PIGLETS! 
 
 <video controls>
