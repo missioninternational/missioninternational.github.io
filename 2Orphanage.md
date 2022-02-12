@@ -13,6 +13,8 @@ permalink: /orphanage/
 
 ## Graduation!
 
+School graduation ceremony at Mama Cooper's Orphanage, Liberia.  
+
 <img src="/assets/images/graduation1.jpg" style="width:30%;height:100%;"><img src="/assets/images/graduation2.jpg" style="width:30%;height:100%;"><img src="/assets/images/graduation3.jpg" style="width:30%;height:100%;">
 
 ## PIGLETS! 
